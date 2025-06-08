@@ -24,8 +24,3 @@ This project uses the JavaScript Fetch API to retrieve and display user data fro
 ## Output
 Displays user name, email, and address in styled cards.
 
-## Screenshot
-_Add your screenshot here if needed._
-
-## Author
-Generated using guidance from ChatGPT.
